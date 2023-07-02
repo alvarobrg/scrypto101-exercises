@@ -21,7 +21,7 @@ mod exercise_module {
             Self {
                 instantiated_at: Runtime::current_epoch(),
                 instantiator_name: instantiator_name,
-                favorite_vegetable: Vegetable::Broccoli
+                favorite_vegetable: Vegetable::Tomato
             }
             .instantiate()
             .globalize()
