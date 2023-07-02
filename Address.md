@@ -1,0 +1,5 @@
+resim reset   
+resim new-account
+Account component address: account_sim1qjxp2mmz4u2e7fhf05ejkagyce5jseeu8xqgg82twcwspj9kuz
+Success! New Package: package_sim1qq0ctxe5grmx7jnn0q3xz4ts4htqvkqsd7ggyvmrz74sl65rxl
+Component: component_sim1q0h5xlr5schrrjz3zpmep42ru2ahmtjv942r8f795nuqma49fg
